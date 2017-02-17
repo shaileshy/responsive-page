@@ -1,0 +1,29 @@
+.top-level{
+    padding-top: 20px;
+    color:rgb(58,177,233);
+}
+.content{
+    height:auto;
+    margin-top:10%;
+    border-radius:20px 20px 0px 0px;
+    background-color: rgb(197,239,255);
+    box-shadow: 2px 2px 2px 2px rgb(137,137,137),-2px -2px 2px 2px rgb(137,137,137);
+}
+.close{
+    float:right;
+}
+.first-line{
+    text-align: center;
+    margin-top:12%;
+    margin-bottom:5%;
+    font-size: 20px;
+    font-style: normal;
+}
+.second-line{
+text-align: center;
+}
+.third-line{
+    text-align: center;
+    margin-bottom: 10%;
+
+}
